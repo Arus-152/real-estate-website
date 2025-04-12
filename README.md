@@ -1,6 +1,6 @@
-# DỰ ÁN: WEBSITE QUẢN LÝ BẤT ĐỘNG SẢN (REMSW)
+# DỰ ÁN: WEBSITE QUẢN LÝ BẤT ĐỘNG SẢN 
 
-# Tác giả: Hồng Đức, Bảo Khanh, Văn Thông
+# Tác giả: Hồng Đức, Bảo Khanh
 
 # Mô TẢ DỰ ÁN:
     Website Quản Lý Bất Động Sản giúp người dùng có thể dễ dàng đăng tải thông tin về bất động sản mình đang sở hữu và 
