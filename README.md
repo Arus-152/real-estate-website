@@ -3,9 +3,9 @@
 # Tác giả: Hồng Đức, Bảo Khanh
 
 # Mô TẢ DỰ ÁN:
-    Website Quản Lý Bất Động Sản giúp người dùng có thể dễ dàng đăng tải thông tin về bất động sản mình đang sở hữu và 
-    có mong muốn bán hoặc cho     thuê bất động sản. Đồng thời, website còn cho phép người dùng tìm kiếm 
-    các bất động sản phù hợp với nhu cầu (thuê hoặc mua lại) của bản thân.
+    Website Quản Lý Bất Động Sản giúp người dùng có thể dễ dàng đăng tải thông tin về bất động sản mình 
+    đang sở hữu và có mong muốn bán hoặc cho     thuê bất động sản. Đồng thời, website còn cho phép 
+    người dùng tìm kiếm các bất động sản phù hợp với nhu cầu (thuê hoặc mua lại) của bản thân.
     Website này cho phép người dùng:
         - Đăng tải thông tin về bất động sản (Bán hoặc cho thuê).
         - Tìm kiếm thông tin về bất động sản (Mua hoặc thuê) phù hợp với bản thân: Tìm kiếm
